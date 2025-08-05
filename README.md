@@ -63,7 +63,7 @@ Como por exemplo: você esta criando uma tabela com informaçoes de pedidos de c
   "pedido_id": 1,
   "cliente": {
     "nome": "Lucas",
-    "endereco": "Rua LogoAli, 31"
+    "endereco": "Rua AliPerto, 31"
   },
   "itens": [
     {
